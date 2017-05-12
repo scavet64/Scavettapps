@@ -13,10 +13,10 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="index.php">Home</a></li>
-								<li><a href="generic.php">Generic</a></li>
+								<li><a href="hJohnsonii.php">SuperNova - Escape!</a></li>
+								<li><a href="hJohnsonii.php">Incrediball</a></li>
 								<li><a href="elements.php">Elements</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Sign Up</a></li>
+								<li><a href="hJohnsonii.php">halophila johnsonii</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>
