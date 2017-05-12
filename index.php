@@ -26,7 +26,7 @@
 						<div class="inner">
 							<div class="logo"><span class="icon fa-diamond"></span></div>
 							<h2>Scavettapps</h2>
-							<p>An independent development company, created by Vincent Scavetta.</p>
+							<p>An independent development studio, created by Vincent Scavetta.</p>
 						</div>
 					</section>
 
@@ -43,7 +43,7 @@
 											arcade classic! Carefully avoid the asteroids floating in
 											space without slowing down... Tap too slowly and the super
 											nova will surly catch up!</p>
-										<a href="#" class="special">Learn more</a>
+										<a href="https://itunes.apple.com/us/app/supernova-escape/id1212043972?mt=8" class="special">Learn more</a>
 									</div>
 								</div>
 							</section>
@@ -57,7 +57,7 @@
 										<p>Incrediball is the most incredible endless rolling ball experience.
 											Steer the ball left and right on randomly generated paths to show your
 											 friends that you are truly incrediball</p>
-										<a href="#" class="special">Learn more</a>
+										<a href="https://itunes.apple.com/us/app/incrediball-the-endlessly-rolling-ball/id1119680630?mt=8" class="special">Learn more</a>
 									</div>
 								</div>
 							</section>
@@ -68,8 +68,10 @@
 									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Super Awesome Image Sharing Site</h2>
-										<p>Coming soon...</p>
+										<p>Upload photos to this super awesome image sharing site created for the Spring 2017 Advance Web Programming class.
+										Leave comments or captions with hashtags, tag users, search for hashtags, and many more features.</p>
 										<a href="#" class="special">Learn more</a>
+										
 									</div>
 								</div>
 							</section>
