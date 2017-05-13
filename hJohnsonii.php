@@ -22,14 +22,17 @@
 				<!-- Header -->
 				<?php include_once("menu.php"); ?>
 
+
+
 				<!-- Wrapper -->
 					<section id="wrapper">
-						<header>
+						<section id="banner">
 							<div class="inner">
+								<!--<div class="logo"><span class="icon fa-diamond"></span></div>-->
 								<h2><i>Halophila johnsonii</i> Individual Based Model (IBM)</h2>
 								<p>Morphological effects of light reduction on the seagrass Halophila johnsonii simulated using an individual-based model.</p>
 							</div>
-						</header>
+						</section>
 
 						<!-- Content -->
 							<div class="wrapper">

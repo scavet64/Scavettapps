@@ -3870,5 +3870,8 @@
 	}
 	
 .testbg{
-	background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/hjohnsonii.jpg");
+	background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/hjohnsoniiSmall.jpg");
+}
+.aibg{
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/circuit-brain-study.png");
 }

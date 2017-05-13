@@ -2,7 +2,7 @@
 						<div class="inner">
 							<h2 class="major">Get in touch</h2>
 							<p>Have an idea for an interesting app or game? Have a question or a problem with one of my applications? Just want to complain? Send me an E-Mail!</p>
-							<form method="post" action="#">
+							<form method="post" action="sendMessage.php">
 								<div class="field">
 									<label for="name">Name</label>
 									<input type="text" name="name" id="name" />

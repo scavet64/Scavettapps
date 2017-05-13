@@ -22,6 +22,13 @@
 				<!-- Header -->
 					<?php include_once("menu.php"); ?>
 
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-diamond"></span></div>
+							<h2>Scavettapps</h2>
+							<p>An independent development studio, created by Vincent Scavetta.</p>
+						</div>
+					</section>
 				<!-- Wrapper -->
 					<section id="wrapper">
 						<header>

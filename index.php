@@ -24,7 +24,7 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<div class="logo"><span class="icon fa-diamond"></span></div>
+							<!--<div class="logo"><span class="icon fa-diamond"></span></div>-->
 							<h2>Scavettapps</h2>
 							<p>An independent development studio, created by Vincent Scavetta.</p>
 						</div>
@@ -77,16 +77,17 @@
 							</section>
 
 						<!-- Four -->
-							<!-- <section id="four" class="wrapper alt style1">
+							 <section id="four" class="wrapper alt style1">
 								<div class="inner">
 									<h2 class="major">Vitae phasellus</h2>
 									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 									<section class="features">
 										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3 class="major">Sed feugiat lorem</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
+											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" alt="" /></a>
+											<h3 class="major">Halophila johnsonii 2015 STEM Poster</h3>
+											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila</i> johnsonii under the super vision of Dr. Richmond.
+											This was presented at the 2015 Rowan University STEM Symposium</p>
+											<a href="hJohnsonii.php" class="special">Learn more</a>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
@@ -113,7 +114,7 @@
 								</div>
 							</section>
 
-					</section> -->
+					</section> 
 
 				<!-- Footer -->
 				<?php include_once("footer.php") ?>
