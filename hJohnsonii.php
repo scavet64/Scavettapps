@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic - Solid State by HTML5 UP</title>
+		<title>Scavettapps - Halophila johnsonii</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -21,8 +21,6 @@
 
 				<!-- Header -->
 				<?php include_once("menu.php"); ?>
-
-
 
 				<!-- Wrapper -->
 					<section id="wrapper">
@@ -111,12 +109,12 @@
 										<article>
 											<a href="images/Simulation black2.PNG" class="image"><img src="images/Simulation black2.PNG" alt="" /></a>
 											<h3 class="major">View of simulation after 365 days</h3>
-											<p>each blue "stick" represents a connection between two nodes. The orange "sticks" are 
+											<p>Each blue "stick" represents a connection between two nodes. The orange "sticks" are 
 											new connections that were created this cycle of the simulation</p>
 										</article>
 										<article>
 											<a href="images/Halophila_Seagrass_1000x500.jpg" class="image"><img src="images/Halophila_Seagrass_1000x500.jpg" alt="" /></a>
-											<h3 class="major"><i>halophila</i> johnsonii growing in the wild</h3>
+											<h3 class="major"><i>Halophila</i> johnsonii growing in the wild</h3>
 											<p>h.johnsonii are a small species of seagrass. This particular patch was growing off the eastern coast of florida.</p>
 										</article>
 									</section>
