@@ -29,6 +29,7 @@
 							<p>An independent development studio, created by Vincent Scavetta.</p>
 						</div>
 					</section>
+					
 				<!-- Wrapper -->
 					<section id="wrapper">
 						<header>

@@ -70,7 +70,7 @@
 										<h2 class="major">Super Awesome Image Sharing Site</h2>
 										<p>Upload photos to this super awesome image sharing site created for the Spring 2017 Advance Web Programming class.
 										Leave comments or captions with hashtags, tag users, search for hashtags, and many more features.</p>
-										<a href="#" class="special">Learn more</a>
+										<a href="" class="special">Coming Soon</a>
 										
 									</div>
 								</div>
@@ -79,38 +79,24 @@
 						<!-- Four -->
 							 <section id="four" class="wrapper alt style1">
 								<div class="inner">
-									<h2 class="major">Vitae phasellus</h2>
-									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+									<h2 class="major">Research Projects</h2>
+									<p>Here are a few of the research projects that I have completed during my time at Rowan University. These projects were not part of any course curiculum and were sponsored by faculty at the university.</p>
 									<section class="features">
 										<article>
 											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" alt="" /></a>
-											<h3 class="major">Halophila johnsonii 2015 STEM Poster</h3>
+											<h3 class="major">Halophila johnsonii Individual Based model (IBM)</h3>
 											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila</i> johnsonii under the super vision of Dr. Richmond.
-											This was presented at the 2015 Rowan University STEM Symposium</p>
+											This was presented at the 2016 Rowan University STEM Symposium.</p>
 											<a href="hJohnsonii.php" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3 class="major">Nisl placerat</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3 class="major">Ante fermentum</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<h3 class="major">Fusce consequat</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/gameSTEM_new.jpg" alt="" /></a>
+											<h3 class="major">Applying AI to Online Trading Card Games</h3>
+											<p>This was the poster that my group and I created to present our research and project on the implementation of an AI into a trading card game.
+												This was presented at the 2016 Rowan University STEM Symposium.</p>
 											<a href="#" class="special">Learn more</a>
 										</article>
 									</section>
-									<ul class="actions">
-										<li><a href="#" class="button">Browse All</a></li>
-									</ul>
 								</div>
 							</section>
 
