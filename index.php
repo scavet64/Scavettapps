@@ -94,7 +94,7 @@
 											<h3 class="major">Applying AI to Online Trading Card Games</h3>
 											<p>This was the poster that my group and I created to present our research and project on the implementation of an AI into a trading card game.
 												This was presented at the 2016 Rowan University STEM Symposium.</p>
-											<a href="#" class="special">Learn more</a>
+											<a href="minimaxAi.php" class="special">Learn more</a>
 										</article>
 									</section>
 								</div>
