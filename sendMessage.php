@@ -5,10 +5,10 @@ if(isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])){
     $email = $_POST['email'];
     $message = $_POST['message'];
     
-    $adminEmail = "";
+    $adminEmail = "contact@scavettapps.com";
     
-    $websiteURL = "http://elvis.rowan.edu/~scavet64/awp/awp/";
-    $mySiteName = "Super Cool Image Site";
+    $websiteURL = "scavettapps.com";
+    $mySiteName = "Scavettapps";
     $UrlEncodedEmail = urlencode($e);
     $to = $adminEmail;
     $from = $adminEmail;
@@ -17,7 +17,7 @@ if(isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["message"])){
     $headers .= "Content-type: text/html; charset=iso-8859-1 \n";
     $subject = $mySiteName." Message Received";
         
-    $msg = '<h2>From '.$email.' , '.$name.'</h2><p>This is an automated message from '.$mySiteName.'.</p>'.$message;
+    $msg = '<h2>From '.$email.' , '.$name.'</h2><p>This is an automated message from '.$mySiteName.'.</p><p>'.$message.'</p>';
         if(mail($to,$subject,$msg,$headers)) {
             echo "success";
             exit();

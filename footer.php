@@ -20,12 +20,12 @@
 								</ul>
 							</form>
 							<ul class="contact">
-								<li class="fa-home">
-									Vincent Scavetta<br />
-									Williamstown, NJ 08094
-								</li>
+								<!--<li class="fa-home">-->
+								<!--	Vincent Scavetta<br />-->
+								<!--	Williamstown, NJ 08094-->
+								<!--</li>-->
 								<!-- <li class="fa-phone">(000) 000-0000</li> -->
-								<li class="fa-envelope"><a href="mailto:scavettapps@scavettapps.io">scavettapps@scavettapps.io</a></li>
+								<li class="fa-envelope"><a href="mailto:scavettapps@scavettapps.io">contact@scavettapps.com</a></li>
 								<li class="fa-twitter"><a href="https://twitter.com/scavettapps">twitter.com/scavettapps</a></li>
 								<li class="fa-github-square"><a href="https://github.com/scavet64">github.com/scavet64</a></li>
 								
