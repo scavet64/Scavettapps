@@ -1,6 +1,12 @@
 
 <!-- Header -->
 					<header id="header" class="alt">
+                        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+                        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+                        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+                        <link rel="manifest" href="/manifest.json">
+                        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+                        <meta name="theme-color" content="#ffffff">
 						<h1><a href="index.php">ScavettApps by Vincent Scavetta</a></h1>
 						<nav>
 							<a href="#menu">Menu</a>
@@ -13,10 +19,10 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="index.php">Home</a></li>
-								<li><a href="hJohnsonii.php">SuperNova - Escape!</a></li>
-								<li><a href="hJohnsonii.php">Incrediball</a></li>
+								<li><a href="https://itunes.apple.com/us/app/supernova-escape/id1212043972?mt=8">SuperNova - Escape!</a></li>
+								<li><a href="https://itunes.apple.com/us/app/incrediball-the-endlessly-rolling-ball/id1119680630?mt=8">Incrediball</a></li>
 								<!--<li><a href="elements.php">Elements</a></li>-->
-								<li><a href="hJohnsonii.php">halophila johnsonii</a></li>
+								<li><a href="hJohnsonii.php"><i>halophila johnsonii</i></a></li>
 								<li><a href="minimaxAi.php">Artificial Intelligence</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>

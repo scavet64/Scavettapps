@@ -36,7 +36,7 @@
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/oyWbKAQG.jpg" alt="" /></a>
+									<a href="images/oyWbKAQG.jpg" class="image"><img src="images/oyWbKAQG.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">SuperNova - Escape!</h2>
 										<p>Tap to escape the trailing super nova in this endless
@@ -51,7 +51,7 @@
 						<!-- Two -->
 							<section id="two" class="wrapper alt spotlight style2">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/0x0ss.png" alt="" /></a>
+									<a href="images/0x0ss.png" class="image"><img src="images/0x0ss.png" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Incrediball - The Endlessly Rolling Ball</h2>
 										<p>Incrediball is the most incredible endless rolling ball experience.
@@ -65,7 +65,7 @@
 						<!-- Three -->
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="images/0x0ss.png" class="image"><img src="images/0x0ss.png" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Super Awesome Image Sharing Site</h2>
 										<p>Upload photos to this super awesome image sharing site created for the Spring 2017 Advance Web Programming class.
@@ -84,8 +84,8 @@
 									<section class="features">
 										<article>
 											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" alt="" /></a>
-											<h3 class="major">Halophila johnsonii Individual Based model (IBM)</h3>
-											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila</i> johnsonii under the super vision of Dr. Richmond.
+											<h3 class="major"><i>Halophila johnsonii</i> Individual Based model (IBM)</h3>
+											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila johnsonii</i> under the super vision of Dr. Richmond.
 											This was presented at the 2016 Rowan University STEM Symposium.</p>
 											<a href="hJohnsonii.php" class="special">Learn more</a>
 										</article>
