@@ -52,7 +52,7 @@
 									to allow for multi-move.</p>
 									
 									<article style="margin:auto;">
-											<a href="images/aiintro.jpg" class="image" style="margin:auto;display:block"><img src="images/aiintro.jpg" alt="" style="margin:auto;"/></a>
+											<a href="images/aiintro.jpg" class="image fit" style="margin:auto;display:block"><img src="images/aiintro.jpg" alt="" style="margin:auto;max-width: 600px;margin-bottom: 20px;"/></a>
 											<h3 class="minor">Game Mechanics</h3>
 											<p>Players start with three cards randomly chosen from their deck of cards. On each turn, a player can place any number
 											of cards and/or make any number of attacks with any card on the field within the constraints laid out for that turn.</p>
