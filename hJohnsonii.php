@@ -85,7 +85,7 @@
 									end of this project, we hope to have a more realistic simulation that takes into account the 
 									following items:</p>
 									
-									<ul style="margin-left:25px;">
+									<ul class="listIndent">
 										<li>Shading due to other biomass in the area.</li>
 										<li>Variable storm lengths.</li>
 										<li>Water level calculations to account forlunar tides.</li>
@@ -100,7 +100,7 @@
 											Also the deeper the seagras live, the less effect the storms have. As storm frequency increases, the population size and density decreases more rapidly in shallow waters</p>
 										</article>
 										<article>
-											<a href="images/Picture4.png" class="image"><img src="images/Picture4.png" alt="" style="max-width: 400px;margin: auto;"/></a>
+											<a href="images/Picture4.png" class="image maxWidth400 marginAuto"><img src="images/Picture4.png" alt=""/></a>
 											<h3 class="major">Sequence diagram for the Individual Based Model</h3>
 											<p>The model follows this sequence of events. The model starts by initializing the startup parameters, output files, ect.
 											Then for every day, the simulation will generate the surface lihgt for that particular day, assign it for each cell, then simulate the population.
