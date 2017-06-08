@@ -65,7 +65,7 @@
 						<!-- Three -->
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
-									<a href="images/0x0ss.png" class="image"><img src="images/0x0ss.png" alt="" /></a>
+									<a href="images/0x0ss.png" class="image"><img src="images/pic01.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Super Awesome Image Sharing Site</h2>
 										<p>Upload photos to this super awesome image sharing site created for the Spring 2017 Advance Web Programming class.
