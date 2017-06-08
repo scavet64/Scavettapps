@@ -3875,3 +3875,30 @@
 .aibg{
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/circuit-brain-study.png");
 }
+.marginAuto{
+	margin:auto;
+}
+.marginBottom20{
+	margin-bottom: 20px;
+}
+.maxWidth400{
+	max-width: 400px; 
+}
+.madWidth600{
+	max-width: 600px;
+}
+.listIndent{
+	margin-left:25px;
+}
+.listTopMarginReduced{
+	margin-top:-25px;
+}
+.centerImageLink{
+	margin:auto;
+	display:block;
+}
+.centerImage{
+	margin:auto;
+	max-width: 600px;
+	margin-bottom: 20px;
+}

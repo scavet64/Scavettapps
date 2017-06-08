@@ -1,14 +1,12 @@
 <!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
-		<title>Scavettapps - Applying AI to Online Trading Card Games</title>
+		<title>Scavettapps: Applying AI to Online Trading Card Games</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Applying AI to Online Trading Card Games. Presented at the 2016 Rowan Univeristy STEM Symposium">
+  		<meta name="keywords" content="Artificial Intelligence,Java,Card Game,Minimax">
+  		<meta name="author" content="Vincent Scavetta">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
@@ -52,7 +50,7 @@
 									to allow for multi-move.</p>
 									
 									<article style="margin:auto;">
-											<a href="images/aiintro.jpg" class="image fit" style="margin:auto;display:block"><img src="images/aiintro.jpg" alt="" style="margin:auto;max-width: 600px;margin-bottom: 20px;"/></a>
+											<a href="images/aiintro.jpg" class="image fit centerImageLink"><img src="images/aiintro.jpg" alt="" class="marginAuto madWidth600 marginBottom20"/></a>
 											<h3 class="minor">Game Mechanics</h3>
 											<p>Players start with three cards randomly chosen from their deck of cards. On each turn, a player can place any number
 											of cards and/or make any number of attacks with any card on the field within the constraints laid out for that turn.</p>
@@ -63,7 +61,7 @@
 											You can only attack the other player's face if and only if there are no other cards on the field.</p>
 											<h3 class="">Probabilities</h3>
 											<p>Each card has individual probabilities of hitting a target. As a result of cards defending themselves when attacked by another card, there are 4 possible outcomes.
-											<ul style="margin-left:25px; margin-top:-25px;">
+											<ul class="listIndent listTopMarginReduced">
 												<li>
 													Hit - Hit
 												</li>
