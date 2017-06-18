@@ -81,14 +81,14 @@
 									<p>Here are a few of the research projects that I have completed during my time at Rowan University. These projects were not part of any course curiculum and were sponsored by faculty at the university.</p>
 									<section class="features">
 										<article>
-											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" alt="" /></a>
+											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.jpg" alt="" /></a>
 											<h3 class="major"><i>Halophila johnsonii</i> Individual Based model (IBM)</h3>
 											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila johnsonii</i> under the super vision of Dr. Richmond.
 											This was presented at the 2016 Rowan University STEM Symposium.</p>
 											<a href="hJohnsonii.php" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/gameSTEM_new.jpg" alt="" /></a>
+											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/artificialIntel.jpg" alt="" /></a>
 											<h3 class="major">Applying AI to Online Trading Card Games</h3>
 											<p>This was the poster that my group and I created to present our research and project on the implementation of an AI into a trading card game.
 												This was presented at the 2016 Rowan University STEM Symposium.</p>
