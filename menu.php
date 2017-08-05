@@ -24,6 +24,7 @@
 								<!--<li><a href="elements.php">Elements</a></li>-->
 								<li><a href="hJohnsonii.php"><i>halophila johnsonii</i></a></li>
 								<li><a href="minimaxAi.php">Artificial Intelligence</a></li>
+								<li><a href="music.php">Great Scores!</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>
