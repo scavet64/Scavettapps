@@ -22,9 +22,9 @@
 								<li><a href="https://itunes.apple.com/us/app/supernova-escape/id1212043972?mt=8">SuperNova - Escape!</a></li>
 								<li><a href="https://itunes.apple.com/us/app/incrediball-the-endlessly-rolling-ball/id1119680630?mt=8">Incrediball</a></li>
 								<!--<li><a href="elements.php">Elements</a></li>-->
-								<li><a href="hJohnsonii.php"><i>halophila johnsonii</i></a></li>
-								<li><a href="minimaxAi.php">Artificial Intelligence</a></li>
-								<li><a href="music.php">Great Scores!</a></li>
+								<li><a href="hJohnsonii"><i>halophila johnsonii</i></a></li>
+								<li><a href="minimaxAi">Artificial Intelligence</a></li>
+								<li><a href="music">Great Scores!</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>

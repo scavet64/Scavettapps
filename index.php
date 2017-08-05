@@ -82,7 +82,7 @@
 										
 										<p>The Scores collection consists of mainly electronic style music. The music that I attempt to make is mainly focused for in-game soundtracks.
 										These songs are inspired by electronic and hiphop elements and are created using Logic Pro. Below are the current tracks that I have available on soundcloud.</p>
-										<a href="music.php" class="special">Listen Now!</a>
+										<a href="music" class="special">Listen Now!</a>
 										
 									</div>
 								</div>
@@ -99,14 +99,14 @@
 											<h3 class="major"><i>Halophila johnsonii</i> Individual Based model (IBM)</h3>
 											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila johnsonii</i> under the super vision of Dr. Richmond.
 											This was presented at the 2016 Rowan University STEM Symposium.</p>
-											<a href="hJohnsonii.php" class="special">Learn more</a>
+											<a href="hJohnsonii" class="special">Learn more</a>
 										</article>
 										<article>
 											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/artificialIntel.jpg" alt="" /></a>
 											<h3 class="major">Applying AI to Online Trading Card Games</h3>
 											<p>This was the poster that my group and I created to present our research and project on the implementation of an AI into a trading card game.
 												This was presented at the 2016 Rowan University STEM Symposium.</p>
-											<a href="minimaxAi.php" class="special">Learn more</a>
+											<a href="minimaxAi" class="special">Learn more</a>
 										</article>
 									</section>
 								</div>
