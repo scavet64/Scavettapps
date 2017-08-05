@@ -63,40 +63,55 @@
 						<!-- Three -->
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
-									<a href="images/0x0ss.png" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="images/Dslr-Camera-icon.png" class="image"><img src="images/Dslr-Camera-icon.png" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Super Awesome Image Sharing Site</h2>
-										<p>Upload photos to this super awesome image sharing site created for the Spring 2017 Advance Web Programming class.
+										<h2 class="major">Image Sharing Site</h2>
+										<p>Upload photos to this image sharing site created for the Spring 2017 Advance Web Programming class.
 										Leave comments or captions with hashtags, tag users, search for hashtags, and many more features.</p>
 										<a href="" class="special">Coming Soon</a>
 										
 									</div>
 								</div>
 							</section>
+							
+							<section id="three" class="wrapper alt spotlight style2">
+								<div class="inner">
+								<a href="music.php" class="image"><img src="images/musicnote.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Great Musical Scores!</h2>
+										
+										<p>The Scores collection consists of mainly electronic style music. The music that I attempt to make is mainly focused for in-game soundtracks.
+										These songs are inspired by electronic and hiphop elements and are created using Logic Pro. Below are the current tracks that I have available on soundcloud.</p>
+										<a href="music" class="special">Listen Now!</a>
+										
+									</div>
+								</div>
+							</section>
 
 						<!-- Four -->
-							 <section id="four" class="wrapper alt style1">
+							 <section id="four" class="wrapper style1">
 								<div class="inner">
 									<h2 class="major">Research Projects</h2>
 									<p>Here are a few of the research projects that I have completed during my time at Rowan University. These projects were not part of any course curiculum and were sponsored by faculty at the university.</p>
 									<section class="features">
 										<article>
-											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" alt="" /></a>
+											<a href="images/HjohnsoniiSTEMposter8+CR2 FINAL.png" class="image"><img src="images/HjohnsoniiSTEMposter8+CR2-FINAL.jpg" alt="" /></a>
 											<h3 class="major"><i>Halophila johnsonii</i> Individual Based model (IBM)</h3>
 											<p>This was the poster that I created to present my research on the seagrass, <i>Halophila johnsonii</i> under the super vision of Dr. Richmond.
 											This was presented at the 2016 Rowan University STEM Symposium.</p>
-											<a href="hJohnsonii.php" class="special">Learn more</a>
+											<a href="hJohnsonii" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/gameSTEM_new.jpg" alt="" /></a>
+											<a href="images/gameSTEM_new.jpg" class="image"><img src="images/artificialIntel.jpg" alt="" /></a>
 											<h3 class="major">Applying AI to Online Trading Card Games</h3>
 											<p>This was the poster that my group and I created to present our research and project on the implementation of an AI into a trading card game.
 												This was presented at the 2016 Rowan University STEM Symposium.</p>
-											<a href="minimaxAi.php" class="special">Learn more</a>
+											<a href="minimaxAi" class="special">Learn more</a>
 										</article>
 									</section>
 								</div>
 							</section>
+							
 
 					</section> 
 
